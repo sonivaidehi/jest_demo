@@ -1,0 +1,19 @@
+{
+  "name": "jest_demo",
+  "version": "1.0.0",
+  "description": "Demo for how to use Jest for unit testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "jest",
+    "unit",
+    "testing"
+  ],
+  "author": "Vaidehi Soni",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
